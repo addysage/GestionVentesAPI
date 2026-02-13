@@ -1,0 +1,7 @@
+﻿services:
+  - type: web
+    name: gestionventes-api
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    autoDeploy: true
