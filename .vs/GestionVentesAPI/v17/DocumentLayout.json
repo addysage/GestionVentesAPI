@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\addyk\\Documents\\ProjetsVisual.API web ASP.NET\\GestionVentesAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27A17779-789F-4DB5-AF93-6D6746CC7808}|GestionVentesAPI.csproj|c:\\users\\addyk\\documents\\projetsvisual.api web asp.net\\gestionventesapi\\gestionventesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{27A17779-789F-4DB5-AF93-6D6746CC7808}|GestionVentesAPI.csproj|solutionrelative:gestionventesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{27A17779-789F-4DB5-AF93-6D6746CC7808}|GestionVentesAPI.csproj|c:\\users\\addyk\\documents\\projetsvisual.api web asp.net\\gestionventesapi\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{27A17779-789F-4DB5-AF93-6D6746CC7808}|GestionVentesAPI.csproj|solutionrelative:render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27A17779-789F-4DB5-AF93-6D6746CC7808}|GestionVentesAPI.csproj|c:\\users\\addyk\\documents\\projetsvisual.api web asp.net\\gestionventesapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{27A17779-789F-4DB5-AF93-6D6746CC7808}|GestionVentesAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27A17779-789F-4DB5-AF93-6D6746CC7808}|GestionVentesAPI.csproj|c:\\users\\addyk\\documents\\projetsvisual.api web asp.net\\gestionventesapi\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{27A17779-789F-4DB5-AF93-6D6746CC7808}|GestionVentesAPI.csproj|solutionrelative:render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{27A17779-789F-4DB5-AF93-6D6746CC7808}|GestionVentesAPI.csproj|c:\\users\\addyk\\documents\\projetsvisual.api web asp.net\\gestionventesapi\\gestionventesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27A17779-789F-4DB5-AF93-6D6746CC7808}|GestionVentesAPI.csproj|solutionrelative:gestionventesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,21 +43,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "render.yaml",
               "DocumentMoniker": "C:\\Users\\addyk\\Documents\\ProjetsVisual.API web ASP.NET\\GestionVentesAPI\\render.yaml",
               "RelativeDocumentMoniker": "render.yaml",
               "ToolTip": "C:\\Users\\addyk\\Documents\\ProjetsVisual.API web ASP.NET\\GestionVentesAPI\\render.yaml",
               "RelativeToolTip": "render.yaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-02-13T13:38:42.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GestionVentesAPI",
+              "DocumentIndex": 2,
+              "Title": "GestionVentesAPI.csproj",
               "DocumentMoniker": "C:\\Users\\addyk\\Documents\\ProjetsVisual.API web ASP.NET\\GestionVentesAPI\\GestionVentesAPI.csproj",
               "RelativeDocumentMoniker": "GestionVentesAPI.csproj",
               "ToolTip": "C:\\Users\\addyk\\Documents\\ProjetsVisual.API web ASP.NET\\GestionVentesAPI\\GestionVentesAPI.csproj",

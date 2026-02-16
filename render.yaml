@@ -3,5 +3,9 @@
     name: gestionventes-api
     runtime: docker
     plan: free
-    healthCheckPath: /health
-    autoDeploy: true
+    region: frankfurt
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
+      - key: ASPNETCORE_URLS
+        value: http://*:10000
